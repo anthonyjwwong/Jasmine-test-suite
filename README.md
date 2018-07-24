@@ -1,4 +1,4 @@
-# Udacity Project - RSS Feed Reader
+# Udacity Project - Using Jasmine test suite on a RSS feedreader
 
 ## Project Overview
 By using Jasmine, a behavior-driven development framework, we were tasked to create tests for a application that was already made.
